@@ -1,7 +1,7 @@
 Olá!!! Eu sou Beatriz Mesquita. Sejam bem-vindos ao meu perfil!!!</br>
 
-💻 Análise e Desenvolvimento de Sistemas - FATEC</br>
-📖 Estudando Python / C / Java </br>
+💻 Análise e Desenvolvimento de Sistemas 5/6 - FATEC</br>
+📖 Atualmente estudando Python / SQL / Java </br>
 
 <div>
   <a href="https://github.com/BEATRIZ158">
