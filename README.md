@@ -1,4 +1,6 @@
-Olá!!! Eu sou Beatriz Mesquita. Sejam bem-vindos ao meu perfil!!!</br>
+<p align="center"><a href="www.linkedin.com/in/beatriz-mesquita-840029253" alt="Hello, I'm Beatriz" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
 📖 Atualmente estudando Python / SQL / Java </br>
