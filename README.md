@@ -1,4 +1,4 @@
-<p align="center"><a href="www.linkedin.com/in/beatriz-mesquita-840029253" alt="Hello, I'm Beatriz" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="www.linkedin.com/in/beatriz-mesquita-840029253" alt="Hello, I'm Beatriz" src="" /></a></p>
 
 <br />
 
