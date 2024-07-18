@@ -5,7 +5,7 @@
 </p>
 💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
 📖 Atualmente estudando Python / SQL / Java </br>
-
+<br/>
 <div>
   <a href="https://github.com/BEATRIZ158">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BEATRIZ158&show_icons=true&theme=dracula"/>
