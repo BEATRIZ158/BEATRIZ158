@@ -3,8 +3,9 @@
     <img src="./Hello.png" alt="Hello! I'm Beatriz." style="width:500px; height:200px;" />
   </a>
 </p>
-💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
-📖 Atualmente estudando Python / SQL / Java </br>
+ - 💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
+ - 📚 Atualmente estudando: Python  SQL  Java </br>
+ - 📖 Livros Favorito: 1984 - 'George Orwell' e 'O Pequeno Príncipe' </br>
 <br/>
 <div>
   <a href="https://github.com/BEATRIZ158">
