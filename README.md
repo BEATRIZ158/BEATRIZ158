@@ -3,8 +3,6 @@
     <img src="./Hello.png" alt="Hello! I'm Beatriz." style="width:600px; height:300px;" />
   </a>
 </p>
-<br />
-
 💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
 📖 Atualmente estudando Python / SQL / Java </br>
 
