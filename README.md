@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-mesquita-840029253" alt="Hello, I'm Beatriz">
-    <img src="./apresentacao.png" alt="Imagem de Apresentação" style="width:600px;" />
+    <img src="./apresentacao.png" alt="Imagem de Apresentação" style="width:800px;" />
   </a>
 </p>
 
