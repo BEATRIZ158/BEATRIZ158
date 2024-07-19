@@ -5,6 +5,8 @@
 </p>
 
 ##
+**Um pouco sobre mim:**
+
  - 💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
  - 📚 Atualmente estudando: Python / SQL / Java </br>
  - 📖 Livros Favorito: '1984 - George Orwell' e 'O Pequeno Príncipe' </br>
