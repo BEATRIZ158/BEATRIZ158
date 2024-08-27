@@ -39,5 +39,5 @@
 **Redes:**
 <div>
   <a href="https://www.linkedin.com/in/beatriz-mesquita-840029253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/beatrizmesquitadossantos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanl"></a>
+  <a href="https://www.instagram.com/beatrizmesquitadossantos/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanl"></a>
 </div>
