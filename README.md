@@ -31,6 +31,7 @@
   <br><br>
   <img align="center" alt="PostgreSQL Badge" height="35" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
   <img align="center" alt="MySQL Badge" height="35" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Raect Native Badge" height="35" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
     
   ##
