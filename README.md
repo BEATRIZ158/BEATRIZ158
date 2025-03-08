@@ -7,7 +7,7 @@
 ##
 **Um pouco sobre mim:**
 
- - 💻 Análise e Desenvolvimento de Sistemas - 5/6</br>
+ - 💻 Análise e Desenvolvimento de Sistemas - 6/6</br>
  - 📚 Atualmente estudando: C# / .NET / Angular / SQL</br>
  - 📖 Livros Favoritos: '1984 - George Orwell' e 'O Pequeno Príncipe' </br>
  - 📪 beatrizmesquita158@gmail.com
