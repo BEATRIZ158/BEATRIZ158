@@ -15,7 +15,7 @@ Atualmente, estou focada nos estudos de C#, pois pretendo seguir carreira como d
 Aqui no meu perfil, você vai encontrar repositórios de projetos pessoais e acadêmicos, desde os primeiros contatos com a linguagem C no início da faculdade, até projetos mais recentes em C# com conexão a banco de dados, programação orientada a objetos, além dos meus estudos em Python e SQL.
 Sinta-se à vontade para explorar e conhecer um pouco melhor da minha trajetória!
 
-Curiosidades:
+**Curiosidades:**
 
  - 💻 Análise e Desenvolvimento de Sistemas - 6/6</br>
  - 📚 Atualmente estudando: C# / .NET / Angular / SQL</br>
