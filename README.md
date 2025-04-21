@@ -7,6 +7,16 @@
 ##
 **Um pouco sobre mim:**
 
+Olá, pessoal! Sejam muito bem-vindos ao meu perfil!
+Meu nome é Beatriz e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no último semestre do curso. Minha paixão por programação começou com a linguagem Python — dei meus primeiros passos com as aulas do Professor Gustavo Guanabara, de forma online e gratuita. Concluí os três módulos oferecidos, que me deram uma excelente base em lógica de programação e me ajudaram bastante no início da faculdade.
+
+Atualmente, estou focada nos estudos de C#, pois pretendo seguir carreira como desenvolvedora .NET. Tenho gostado bastante de trabalhar com esse framework, que também está sendo utilizado no desenvolvimento do meu Trabalho de Graduação, juntamente com Angular.
+
+Aqui no meu perfil, você vai encontrar repositórios de projetos pessoais e acadêmicos, desde os primeiros contatos com a linguagem C no início da faculdade, até projetos mais recentes em C# com conexão a banco de dados, programação orientada a objetos, além dos meus estudos em Python e SQL.
+Sinta-se à vontade para explorar e conhecer um pouco melhor da minha trajetória!
+
+Curiosidades:
+
  - 💻 Análise e Desenvolvimento de Sistemas - 6/6</br>
  - 📚 Atualmente estudando: C# / .NET / Angular / SQL</br>
  - 📖 Livros Favoritos: '1984 - George Orwell' e 'O Pequeno Príncipe' </br>
