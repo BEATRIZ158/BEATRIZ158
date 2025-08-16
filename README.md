@@ -7,20 +7,26 @@
 ##
 **Um pouco sobre mim:**
 
-Olá, pessoal! Sejam muito bem-vindos ao meu perfil!
-Meu nome é Beatriz e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no último semestre do curso. Minha paixão por programação começou com a linguagem Python — dei meus primeiros passos com as aulas do Professor Gustavo Guanabara, de forma online e gratuita. Concluí os três módulos oferecidos, que me deram uma excelente base em lógica de programação e me ajudaram bastante no início da faculdade.
+Sou desenvolvedora de software, formada em Análise e Desenvolvimento de Sistemas pela Fatec Prof. José Camargo. Atualmente, atuo na manutenção e evolução do sistema de gestão comercial e PDV Sigecom, que atende empresas de pequeno e médio porte.
 
-Atualmente, estou focada nos estudos de C#, pois pretendo seguir carreira como desenvolvedora .NET. Tenho gostado bastante de trabalhar com esse framework, que também está sendo utilizado no desenvolvimento do meu Trabalho de Graduação, juntamente com Angular.
+Tenho como objetivo evoluir constantemente, aprimorando minhas habilidades técnicas, qualidade de código e experiência profissional. Busco contribuir para o desenvolvimento de soluções eficazes que tragam impacto positivo e resolvam problemas de forma eficiente.
 
-Aqui no meu perfil, você vai encontrar repositórios de projetos pessoais e acadêmicos, desde os primeiros contatos com a linguagem C no início da faculdade, até projetos mais recentes em C# com conexão a banco de dados, programação orientada a objetos, além dos meus estudos em Python e SQL.
-Sinta-se à vontade para explorar e conhecer um pouco melhor da minha trajetória!
+**Competências:**
+
+- C#
+- .NET Framework
+- SQL (Firebird)
+- Git & GitHub
+- DevExpress
 
 **Curiosidades:**
 
- - 💻 Análise e Desenvolvimento de Sistemas - 6/6</br>
+ - 💻 Análise e Desenvolvimento de Sistemas </br>
  - 📚 Atualmente estudando: C# / .NET / Angular / SQL</br>
  - 📖 Livros Favoritos: '1984 - George Orwell' e 'O Pequeno Príncipe' </br>
  - 📪 beatrizmesquita158@gmail.com
+
+🚀 Sinta-se à vontade para acompanhar meu crescimento, estudos e projetos!
 
 ##
 
